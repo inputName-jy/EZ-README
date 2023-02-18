@@ -20,6 +20,9 @@
   ## Usage
   to use this, follow the prompts, and input the information just like I am now by typing
 
+  Here is a link to a demo video for this application:
+  https://drive.google.com/file/d/1tPsB71BFO38u4lB6oC8wZv87a9rBM9rD/view
+
   ## License
     MIT
     Link: (https://opensource.org/licenses/MIT)
