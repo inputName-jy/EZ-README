@@ -1,0 +1,2 @@
+# EZ-README
+readme generator
