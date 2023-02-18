@@ -3,6 +3,10 @@
   # EZ-README
   <br>
   
+  ## Preview (Demo Video)
+  [EZ-README-DEMO.webm](https://user-images.githubusercontent.com/118019526/219824943-44e415bf-62e9-4672-ab0f-26fdf280bc1a.webm)
+
+  
   ## Description
   This is a simple readme generator using node and inquirer
 
@@ -14,7 +18,8 @@
   - [Testing](#testing)
   - [Questions](#questions)
 
-  ## Installation
+  ## Installation[Uploading EZ-README-DEMO.webm…]()
+
   to install, clone the github repo into your local machine and in the terminal type 'npm i'
 
   ## Usage
